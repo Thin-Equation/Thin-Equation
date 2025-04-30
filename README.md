@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=True&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=True&layout=donut-vertical)]
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thin-Equation&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
