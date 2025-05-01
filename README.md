@@ -1,4 +1,7 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhairya+Gundechia;AI+Engineer+%7C+Full+Stack+Dev+%7C+Cloud+Native+Builder;LLMs+%7C+LangChain+%7C+FastAPI+%7C+AWS+%7C+React" alt="Typing SVG" />
+# <p align="center">
+#  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dhairya+Gundechia;AI+Engineer+%7C+Full+Stack+Developer+%7C+Cloud+Native+Builder;LLMs+%7C+LangChain+%7C+FastAPI+%7C+AWS+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+# </p>
+
 
 AI Engineer | Full-Stack Developer | Cloud Architect  
 🧠 Building scalable systems with LLMs, agents, and real-world impact in mind.
