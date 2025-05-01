@@ -57,9 +57,9 @@ An AI-enhanced web scraper designed for RAG pipelines. Supports dynamic sites, s
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
   <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
