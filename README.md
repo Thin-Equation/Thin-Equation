@@ -56,9 +56,11 @@ An AI-enhanced web scraper designed for RAG pipelines. Supports dynamic sites, s
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=donut-vertical)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=donut-vertical"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thin-Equation&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
