@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Dhairya Gundechia
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhairya+Gundechia;AI+Engineer+%7C+Full+Stack+Dev+%7C+Cloud+Native+Builder;LLMs+%7C+LangChain+%7C+FastAPI+%7C+AWS+%7C+React" alt="Typing SVG" />
 
 AI Engineer | Full-Stack Developer | Cloud Architect  
 🧠 Building scalable systems with LLMs, agents, and real-world impact in mind.
@@ -59,7 +59,7 @@ An AI-enhanced web scraper designed for RAG pipelines. Supports dynamic sites, s
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
   <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
