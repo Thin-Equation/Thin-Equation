@@ -14,7 +14,7 @@ Currently pursuing my M.S. in Software Engineering Systems @ Northeastern Univer
 ### 🚀 [MatchPoint](https://github.com/Thin-Equation/MatchPoint)
 LLM-powered resume screening app using a fine-tuned Llama 3.2 model. Includes FastAPI backend, React.js frontend, deployed on AWS ECS.
 
-### 🤖 [Tool-Use-Agent](https://github.com/Thin-Equation/Tool-Use-Agent)
+### 🤖 [ToolUseAgent](https://github.com/Thin-Equation/ToolUseAgent)
 LangChain-based autonomous agent that selects and uses tools to perform multi-step tasks with planning and memory modules.
 
 ### 🔍 [Rufus](https://github.com/Thin-Equation/Rufus)
