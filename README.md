@@ -1,11 +1,12 @@
-# <p align="center">
-#  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dhairya+Gundechia;AI+Engineer+%7C+Full+Stack+Developer+%7C+Cloud+Native+Builder;LLMs+%7C+LangChain+%7C+FastAPI+%7C+AWS+%7C+React+%7C+TypeScript" alt="Typing SVG" />
-# </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dhairya+Gundechia;AI+Engineer+%7C+Full+Stack+Developer+%7C+Cloud+Native+Builder;LLMs+%7C+LangChain+%7C+FastAPI+%7C+AWS+%7C+React+%7C+TypeScript" alt="Typing animation: Dhairya Gundechia bio" />
+</p>
 
+---
 
-AI Engineer | Full-Stack Developer | Cloud Architect  
-🧠 Building scalable systems with LLMs, agents, and real-world impact in mind.
-Currently pursuing my M.S. in Software Engineering Systems @ Northeastern University.
+# 👋 AI Engineer | Full-Stack Developer | Cloud Architect  
+🧠 Building scalable systems with LLMs, agents, and real-world impact in mind.  
+🎓 M.S. in Software Engineering Systems @ Northeastern University.
 
 ---
 
@@ -59,22 +60,32 @@ An AI-enhanced web scraper designed for RAG pipelines. Supports dynamic sites, s
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thin-Equation&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Thin-Equation&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thin-Equation&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thin-Equation&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thin-Equation&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thin-Equation&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Thin-Equation&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-gundechia)
 
